@@ -1,6 +1,6 @@
 soong_namespace {
     imports: [
-        "hardware/qcom/display",
+        "hardware/qcom/sm8350/display",
     ],
 }
 cc_library_shared {
